@@ -1,4 +1,4 @@
-# Hi, I'm Umesh! 👋
+<img width="603" alt="Screenshot 2024-01-01 at 3 47 02 PM" src="https://github.com/Umesh92x/TimeSeriesTransformer/assets/37169232/41aba251-f560-48d3-a4f6-699007dfb9f9"># Hi, I'm Umesh! 👋
 
 ## 🚀 About Me
 I am a data scientist with a strong background in data analysis and machine learning. My expertise lies in effectively harnessing and analyzing data to derive valuable insights. I have a proven track record of applying advanced statistical and machine-learning techniques to tackle complex data challenges, especially time series. My experience includes developing predictive models, identifying patterns, and extracting meaningful information from diverse datasets. I am dedicated to utilizing my skills to drive data-driven decision-making and contribute to the field of data science.
@@ -50,7 +50,9 @@ Once forked; it contains
 
 #### Output
 
-<img width="1394" alt="outputexample5" src="https://github.com/Umesh92x/TimeSeriesEDA/assets/37169232/67a956d4-a14d-464b-b7f6-f0952d9044bb">
+<img width="1394" alt="outputexample5" src="![Uploading Screenshot 2024-01-01 at 3.47.02 PM.png…]()">
+
+
 
 ## 🛠 Skills Enhancement 
 Python, Google Colab, Time Series, Huggingface Transformers, and GIT
