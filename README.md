@@ -5,7 +5,7 @@ I am a data scientist with a strong background in data analysis and machine lear
 
 # Time Series Forecasting with HuggingFace Transformers and Gluonts 
 
-This project will build a foundation for using HuggingFace Transformers for any kind of data. Here we are trying to see the use of deep learning based time series frameworks like Gluonts and HuggingFace Transformers to generate the predictions.
+This project will build a foundation for using HuggingFace Transformers for any kind of data. Here we are trying to see the use of deep learning-based time series frameworks like Gluonts and HuggingFace Transformers to generate the predictions.
 
 ### Goals
 Learning about the 
@@ -39,7 +39,7 @@ Follow the below instructions on setting up your project. Nothing much is needed
 
 ### Installation
 
-1. Forked the repo: Clone it on your suitable project path
+1. Fork/clone the repo: Clone it on your suitable project path
 git clone https://github.com/Umesh92x/TimeSeriesTransformer.git
 
 ### Execution 
@@ -47,14 +47,14 @@ git clone https://github.com/Umesh92x/TimeSeriesTransformer.git
 #### Step 1
 Once forked; it contains
 1. Link to Google Colab - https://colab.research.google.com/drive/1QtEoqxdBEe7NIsEHRsP477ivXAxQXVoS?usp=sharing
+2. Either copy the code and paste into any desired notebook (Either Google Colab or Github Workspace)
 
 #### Output
-
+Output from one time series Product/Id
 <img width="603" alt="Screenshot 2024-01-01 at 3 47 02 PM" src="https://github.com/Umesh92x/TimeSeriesTransformer/assets/37169232/41aba251-f560-48d3-a4f6-699007dfb9f9">
 
 ## 🛠 Skills Enhancement 
 Python, Google Colab, Time Series, Huggingface Transformers, and GIT
-
 
 ## Authors
 
