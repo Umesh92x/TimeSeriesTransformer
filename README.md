@@ -5,7 +5,7 @@ I am a data scientist with a strong background in data analysis and machine lear
 
 # Time Series Forecasting with HuggingFace Transformers and Gluonts 
 
-This project will build a foundation for using HuggingFace Transformers for any kind of data. Here we are trying to see the use of deep learning-based time series frameworks like Gluonts and HuggingFace Transformers to generate the predictions.
+This project will build a foundation for using HuggingFace Transformers on any kind of data. Here we are trying to see the use of deep learning-based time series frameworks like Gluonts and HuggingFace Transformer to generate the forecast predictions.
 
 ### Goals
 Learning about the 
