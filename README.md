@@ -28,10 +28,10 @@ Learning about the
 6. Using the module as_stacked_batches, create multiple batches of the time series for training
 7. Using the model object, pass all target time series and features
 8. Call the Accelerator module and select the GPU/CPU
-9. Run 100 Epochs; train the model, calculate the gradient and print the loss
-10. Evaluate the model using model.eval() on test datasets called test_dataloader
+9. Run 100 Epochs; train the model, calculate the gradient, and print the loss
+10. Evaluate the model using the model. Use eval() on test datasets called test_dataloader
 11. Calculate the MASE and SMAPE
-12. Print the forecast on again on test data
+12. Print the forecast on the test data
 ```
 
 ## Getting Started
