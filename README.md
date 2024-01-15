@@ -20,7 +20,7 @@ Learning about the
 
 ### Techniques and Library includes (just a demo 😃)
 ```
-1. Load input tourism data using the **datasets** library
+1. Load input tourism data using the **datasets** library (you can use any time series data you want)
 2. Transform the time index using custom functions and partial modules
 3. Define some features - Lags features, Time features, and statistic categorical features
 4. Set the rules or config using TimeSeriesTransformerConfig, TimeSeriesTransformerForPrediction modules
