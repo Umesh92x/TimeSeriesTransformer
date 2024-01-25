@@ -28,7 +28,7 @@ Learning about the
 6. Using the module as_stacked_batches, create multiple batches of the time series for training
 7. Using the model object, pass all target time series and features
 8. Call the Accelerator module and select the GPU/CPU
-9. Run 100 Epochs; train the model, calculate the gradient, and print the loss
+9. Run 100 Epochs, train the model, calculate the gradient, and find the loss
 10. Evaluate the model using the model. Use eval() on test datasets called test_dataloader
 11. Calculate the MASE and SMAPE
 12. Print the forecast on the test data
@@ -39,7 +39,7 @@ Follow the below instructions on setting up your project. Nothing much is needed
 
 ### Installation
 
-1. Fork/clone the repo: Clone it on your suitable project path
+1. Fork/clone the repo: Clone it on your suitable path
 git clone https://github.com/Umesh92x/TimeSeriesTransformer.git
 
 ### Execution 
@@ -54,7 +54,7 @@ Output from one time series Product/Id
 <img width="603" alt="Screenshot 2024-01-01 at 3 47 02 PM" src="https://github.com/Umesh92x/TimeSeriesTransformer/assets/37169232/41aba251-f560-48d3-a4f6-699007dfb9f9">
 
 ## 🛠 Skills Enhancement 
-Python, Google Colab, Time Series, Huggingface Transformers, and GIT
+Python, Google Colab, Time Series, Huggingface Transformers, and GIT and Deep Learning
 
 ## Authors
 
