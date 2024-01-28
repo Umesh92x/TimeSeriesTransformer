@@ -24,7 +24,7 @@ Learning about the
 2. Transform the time index using custom functions and partial modules
 3. Define some features - Lags features, Time features, and statistic categorical features
 4. Set the rules or config using TimeSeriesTransformerConfig, TimeSeriesTransformerForPrediction modules
-5. Create the features and apply some transformations like missing value treatment and removing unwanted columns using Chain module
+5. Create the features and apply some transformations like missing value treatment and removing unwanted columns using the Chain module
 6. Using the module as_stacked_batches, create multiple batches of the time series for training
 7. Using the model object, pass all target time series and features
 8. Call the Accelerator module and select the GPU/CPU
