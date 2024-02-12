@@ -12,7 +12,7 @@ Learning about the
   1. How to use the Huggingface Transformer
   2. Use of Gluonts (a deep learning-based time series forecasting engine)
   3. Generate the predictions
-  4. And deep dive more in HuggingFace Transformers
+  4. And deep dive into HuggingFace Transformers
 
 💻 Hardware support: Might take longer for 8GM RAM systems. Suggest to move Google Colab 
 
