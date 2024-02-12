@@ -35,7 +35,7 @@ Learning about the
 ```
 
 ## Getting Started
-Follow the below instructions on setting up your project. Nothing much is needed to run the code, just Google Colab and it you :)
+Follow the below instructions on setting up your project. Nothing much is needed to run the code, just Google Colab, and it's you :)
 
 ### Installation
 
