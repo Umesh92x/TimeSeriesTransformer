@@ -62,7 +62,7 @@ Python, Google Colab, Time Series, Huggingface Transformers, and GIT and Deep Le
 
 ## Contributing
 
-If you have a suggestion that would make this better, please fork this repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+If you have a suggestion that would make this better, please fork this repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again and enjoy !
 
 - Fork the Project
 - Create your work Branch (git checkout -b TimeSeriesTransformer)
