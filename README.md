@@ -47,7 +47,7 @@ git clone https://github.com/Umesh92x/TimeSeriesTransformer.git
 #### Step 1
 Once it is forked, it contains
 1. Link to Google Colab - https://colab.research.google.com/drive/1QtEoqxdBEe7NIsEHRsP477ivXAxQXVoS?usp=sharing
-2. Yoy cab Either copy the code and paste it into any desired notebook (Either Google Colab or Github Workspace)
+2. You cab either copy the code and paste it into any desired notebook (Either Google Colab or Github Workspace)
 
 #### Output
 Output from one time series Product/Id
