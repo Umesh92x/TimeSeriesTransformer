@@ -14,7 +14,7 @@ Learning about the
   3. Generate the predictions
   4. And deep dive into HuggingFace Transformers
 
-💻 Hardware support: Might take longer for 8GM RAM systems. Suggest to move Google Colab 
+💻 Hardware support: It might take longer for 8GM RAM systems. Suggest to move Google Colab 
 
 🔋 Try with your own: Take any forecast/demand data and make use of it to get useful insights.
 
