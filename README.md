@@ -1,7 +1,7 @@
 # Hi, I'm Umesh! 👋
 
 ## 🚀 About Me
-I am a data scientist with a strong background in data analysis and machine learning. My expertise lies in effectively harnessing and analyzing data to derive valuable insights. I have a proven track record of applying advanced statistical and machine-learning techniques to tackle complex data challenges, especially time series. My experience includes developing predictive models, identifying patterns, and extracting meaningful information from diverse datasets. I am dedicated to utilizing my skills to drive data-driven decision-making and contribute to the field of data science.
+I am a data scientist with a strong background in Time series data analysis and machine learning. My expertise lies in effectively harnessing and analyzing data to derive valuable insights. I have a proven track record of applying advanced statistical and machine-learning techniques to tackle complex data challenges, especially time series. My experience includes developing predictive models, identifying patterns, and extracting meaningful information from diverse datasets. I am dedicated to utilizing my skills to drive data-driven decision-making and contribute to the field of data science.
 
 # Time Series Forecasting with HuggingFace Transformers and Gluonts 
 
