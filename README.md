@@ -10,7 +10,7 @@ This project will help you to build a foundation for using HuggingFace Transform
 ### Goals
 Learning about the 
   1. How to use the Huggingface Transformer
-  2. Use of Gluonts (a deep learning-based time series forecasting engine)
+  2. Use of Gluonts (a Deep Learning based time series forecasting engine)
   3. Generate the predictions
   4. And deep dive into HuggingFace Transformers
 
